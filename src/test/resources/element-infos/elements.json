@@ -1,0 +1,128 @@
+[
+  {
+    "key": "Virgosol_Logo",
+    "value": "/html/body/div[1]/header/div[2]/div/div[1]/a/span[2]/img",
+    "type": "xpath"
+    },
+  {
+    "key": "QAmaster_Logo",
+    "value": "/html/body/div[1]/section[4]/div/div[2]/div[1]/a",
+    "type": "xpath"
+  },
+  {
+    "key": "QAmaster_image",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div[2]/div/h2[1]/strong/img",
+    "type": "xpath"
+  },
+  {
+    "key": "QAmaster_title",
+    "value": "/html/body/div[1]/section[2]/div/div/div/h2[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "QAmaster_text",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div[2]/div/h2[2]/strong",
+    "type": "xpath"
+  },
+  {
+    "key": "Loadmance_Logo",
+    "value": "/html/body/div[1]/section[4]/div/div[2]/div[2]/a",
+    "type": "xpath"
+  },
+  {
+    "key": "Loadmance_title",
+    "value": "/html/body/div[1]/section[2]/div/div/div/h2[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Loadmance_text",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div[2]/div/h2[1]/strong",
+    "type": "xpath"
+  },
+  {
+    "key": "Ddosphere_Logo",
+    "value": "/html/body/div[1]/section[4]/div/div[2]/div[3]/a",
+    "type": "xpath"
+  },
+  {
+    "key": "Ddosphere_title",
+    "value": "/html/body/div[1]/section[2]/div/div/div/h2[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Ddosphere_image",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div[2]/div/h2[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Ddosphere_text",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div[2]/div/h2[2]/strong",
+    "type": "xpath"
+  },
+  {
+    "key": "Roboclick_Logo",
+    "value": "/html/body/div[1]/section[4]/div/div[2]/div[4]/a",
+    "type": "xpath"
+  },
+  {
+    "key": "Roboclick_title",
+    "value": "/html/body/div[1]/section[2]/div/div/div[1]/h2[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Roboclick_image",
+    "value": "/html/body/div[1]/section[2]/div/div/div[1]/div[2]/div/p[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "Roboclick_text",
+    "value": "/html/body/div[1]/section[2]/div/div/div[1]/div[2]/div/p[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "JoinOurHappyCustomers_icon",
+    "value": "/html/body/div[1]/section[10]/div/div/div[2]/a",
+    "type": "xpath"
+  },
+  {
+    "key": "name_text",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div/div[1]/div[2]/form/div[1]/div[1]/input",
+    "type": "xpath"
+  },
+  {
+    "key": "surname_text",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div/div[1]/div[2]/form/div[1]/div[2]/input",
+    "type": "xpath"
+
+  },
+  {
+    "key": "email_text",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div/div[1]/div[2]/form/div[2]/input",
+    "type": "xpath"
+  },
+  {
+    "key": "subject_text",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div/div[1]/div[2]/form/div[3]/input",
+    "type": "xpath"
+  },
+  {
+    "key": "message_text",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div/div[1]/div[2]/form/div[4]/textarea",
+    "type": "xpath"
+  },
+  {
+    "key": "sendmessage_button",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div/div[1]/div[2]/form/button",
+    "type": "xpath"
+  },
+  {
+    "key": "alert_popup",
+    "value": "/html/body/div[1]/section[2]/div/div/div/div/div[1]/div[1]/div",
+    "type": "xpath"
+  },
+  {
+    "key": "cloudflare_check_button",
+    "value": "/html/body//div/div/div[1]/div/label/input",
+    "type": "xpath"
+  }
+]

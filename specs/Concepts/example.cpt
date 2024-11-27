@@ -1,0 +1,62 @@
+# Virgosol web sitesinin açıldığı doğrulanır
+* "Virgosol_Logo" li element var mı?
+# QAmaster logosuna tıklanır
+* "QAmaster_Logo" li elemente swipe yap
+* "QAmaster_Logo" li elemente tıkla
+# QAmaster title doğrulanır
+* "QAmaster_title" li element var mı?
+# QAmaster text doğrulanır
+* "QAmaster_text" li element var mı?
+# QAmaster image doğrulanır
+* "QAmaster_image" li element var mı?
+# Loadmance logosuna tıklanır
+* "Loadmance_Logo" li elemente swipe yap
+* "Loadmance_Logo" li elemente tıkla
+# Loadmance title doğrulanır
+* "Loadmance_title" li element var mı?
+# Loadmance text doğrulanır
+* "Loadmance_text" li element var mı?
+# Ddosphere logosuna tıklanır
+* "Ddosphere_Logo" li elemente swipe yap
+* "Ddosphere_Logo" li elemente tıkla
+# Ddosphere title doğrulanır
+* "Ddosphere_title" li element var mı?
+# Ddosphere image doğrulanır
+* "Ddosphere_image" li elemente swipe yap
+* "Ddosphere_image" li element var mı?
+# Ddosphere text doğrulanır
+* "Ddosphere_text" li element var mı?
+# Roboclick logosuna tıklanır
+* "Roboclick_Logo" li elemente swipe yap
+* "Roboclick_Logo" li elemente tıkla
+# Roboclick title doğrulanır
+* "Roboclick_title" li elemente swipe yap
+* "Roboclick_title" li element var mı?
+# Roboclick image doğrulanır
+* "Roboclick_image" li element var mı?
+# Roboclick text doğrulanır
+* "Roboclick_text" li element var mı?
+# Join Our Happy Customers! ikonuna tıklanır
+* "JoinOurHappyCustomers_icon" li elemente swipe yap
+* "JoinOurHappyCustomers_icon" li elemente tıkla
+# <text> adı girilir
+* "name_text" li elemente swipe yap
+* "name_text" li elemente <text> değerini yaz
+# <text> soyadı girilir
+* "surname_text" li elemente <text> değerini yaz
+# <text> email girilir
+* "email_text" li elemente swipe yap
+* "email_text" li elemente <text> değerini yaz
+# <text> subject girilir
+* "subject_text" li elemente <text> değerini yaz
+# <text> message girilir
+* "message_text" li elemente <text> değerini yaz
+# Cloudflare check butonuna tıklanır
+* "cloudflare_check_button" li elemente swipe yap
+* "cloudflare_check_button" li elemente tıkla
+# Send Message butonuna tıklanır
+* "sendmessage_button" li elemente swipe yap
+* "sendmessage_button" li elemente tıkla
+# Uyarı mesajı doğrulanır
+* "alert_popup" li elemente swipe yap
+* "alert_popup" li element var mı?

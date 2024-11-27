@@ -1,0 +1,56 @@
+---
+platforms:
+  - type: BROWSER_STACK
+    username: user_TxgZ9P
+    accessKey: U6FyUeoN38myZzYfq9rq
+    hubUrl: hub.browserstack.com/wd/hub
+    options:
+      os: Windows
+      osVersion: 11
+      projectName: Web Test Automation
+      buildName: ${suiteName}
+      #buildName: ${suiteName} ${date}
+      sessionName: ${scenarioName}
+      local: false
+      video: true
+      debug: true
+      consoleLogs: info
+      networkLogs: true
+      seleniumVersion: 4.8.0
+      seleniumLogs: false
+      telemetryLogs: false
+    capabilities:
+      browserName: Chrome
+      acceptInsecureCerts: true
+      browserVersion: 119
+  - type: SAUCE_LABS
+    username: username
+    accessKey: accessKey
+    hubUrl: ondemand.saucelabs.com:443/wd/hub
+    options:
+      build: ${suiteName}
+      name: ${scenarioName}
+    capabilities:
+      platformName: Windows 10
+      browserName: Chrome
+      browserVersion: 119
+  - type: LAMBDA_TEST
+    username: LT_USERNAME
+    accessKey: LT_ACCESS_KEY
+    hubUrl: hub.lambdatest.com
+    options:
+      platformName: Windows 10
+      username: username
+      accessKey: accessKey
+      project: Web Test Automation
+      build: ${suiteName}
+      visual: false
+      video: false
+      network: false
+      tunnel: false
+      console: info
+      selenium_version: 4.6.0
+      w3c: true
+    capabilities:
+      browserName: Firefox
+      browserVersion: 119
