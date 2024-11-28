@@ -2,7 +2,7 @@
 
 
 Default Web framework'üdür. Yeni projelere adaptasyon için aşağıdaki adımları takip ederek kurulum yapabilirsiniz.
-
+asd
 
 ## Default Framework'ün Klonlanması
 
