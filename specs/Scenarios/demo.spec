@@ -11,7 +11,7 @@ tags: demo1
 tags: test1
 * <url> urle git
 * "https://www.google.com/" urlinin açıldığı doğrulanır.
-*"1" saniye bekle
+*"5" saniye bekle
 
 ## TC2 - Deneme2
 tags: deneme
